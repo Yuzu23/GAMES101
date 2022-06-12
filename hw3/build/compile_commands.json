@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/erokusa/GAMES101/hw3/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/main.cpp.obj -c D:/erokusa/GAMES101/hw3/main.cpp",
+  "file": "D:/erokusa/GAMES101/hw3/main.cpp"
+},
+{
+  "directory": "D:/erokusa/GAMES101/hw3/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj -c D:/erokusa/GAMES101/hw3/rasterizer.cpp",
+  "file": "D:/erokusa/GAMES101/hw3/rasterizer.cpp"
+},
+{
+  "directory": "D:/erokusa/GAMES101/hw3/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Triangle.cpp.obj -c D:/erokusa/GAMES101/hw3/Triangle.cpp",
+  "file": "D:/erokusa/GAMES101/hw3/Triangle.cpp"
+},
+{
+  "directory": "D:/erokusa/GAMES101/hw3/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Texture.cpp.obj -c D:/erokusa/GAMES101/hw3/Texture.cpp",
+  "file": "D:/erokusa/GAMES101/hw3/Texture.cpp"
+}
+]

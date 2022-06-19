@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/erokusa/GAMES101/hw4/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/BezierCurve.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.obj -c D:/erokusa/GAMES101/hw4/code/main.cpp",
+  "file": "D:/erokusa/GAMES101/hw4/code/main.cpp"
+}
+]

@@ -1,13 +1,14 @@
 {
+    "cmake.sourceDirectory": "${workspaceFolder}/code",
     "files.associations": {
+        "*.tcc": "cpp",
         "array": "cpp",
-        "cmath": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
-        "*.tcc": "cpp",
         "cctype": "cpp",
         "chrono": "cpp",
         "clocale": "cpp",
+        "cmath": "cpp",
         "complex": "cpp",
         "condition_variable": "cpp",
         "cstdarg": "cpp",
@@ -55,7 +56,6 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "thread": "cpp",
-        "typeinfo": "cpp",
-        "eigen": "cpp"
+        "typeinfo": "cpp"
     }
 }
